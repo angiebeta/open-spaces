@@ -36,7 +36,7 @@ const inputFilesList = {
 } */
 
 export default defineConfig({
-  base: "/modulo-1-evaluacion-final-angelicagh/",
+  base: "./",
   root: "src",
   publicDir: "../public",
   build: {
